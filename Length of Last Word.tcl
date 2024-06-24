@@ -1,5 +1,4 @@
 Question: https://leetcode.com/problems/length-of-last-word/description/
-This site was built using [GitHub Pages](https://pages.github.com/)
 
 proc length_of_last_word {s} {
     set count 0
